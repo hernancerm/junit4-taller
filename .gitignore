@@ -1,0 +1,6 @@
+# Archivos de compilación
+target/
+
+# IDEs y editores de texto
+.idea/
+*.iml
