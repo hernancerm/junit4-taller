@@ -16,16 +16,16 @@ Los casos de prueba están agrupadas por los métodos de la pila:
 
 ### `pop`
 
-- `pop_shouldRemoveObject_whenStackIsNotEmpty`
+- `pop_shouldRemoveObject_whenStackIsNotEmpty`  📌
 - `pop_shouldReturnNull_whenStackIsEmpty`
 
 ### `peek`
 
-- `peek_shouldReturnLastObject_whenStackIsNotEmpty`
-- `peek_shouldReturnNull_whenStackIsEmpty`
+- `peek_shouldReturnLastObject_whenStackIsNotEmpty`  📌
+- `peek_shouldReturnNull_whenStackIsEmpty`  📌
 
 ### `size`
 
-- `size_shouldBeZero_whenStackIsInstantiated`
+- `size_shouldBeZero_whenStackIsInstantiated`  📌
 - `size_shouldIncrement_whenObjectIsPushed`
 - `size_shouldDecrement_whenObjectIsPopped`
